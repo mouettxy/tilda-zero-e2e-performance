@@ -1,0 +1,5 @@
+.cache
+node_modules
+database.sqlite
+debug-info.json
+stats.json
